@@ -1,2 +1,2 @@
 # mariami
-Mariam's Albom
+Mariam's Album
